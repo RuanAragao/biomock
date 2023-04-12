@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "product": "BooBlablé",
+    "materials": [
+      {
+        "id": 1,
+        "name":"Material 1",
+        "selfLink": "https://biome-hub.com"
+      },
+      {
+        "id": 1,
+        "name":"Material 2",
+        "selfLink": "https://biome-hub.com"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "product": "Baclabla",
+    "materials": [
+      {
+        "id": 1,
+        "name":"Material 3",
+        "selfLink": "https://biome-hub.com"
+      },
+      {
+        "id": 1,
+        "name":"Material 4",
+        "selfLink": "https://biome-hub.com"
+      }
+    ]
+  }
+]
